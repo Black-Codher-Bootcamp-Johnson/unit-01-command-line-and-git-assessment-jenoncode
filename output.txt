@@ -1,0 +1,21 @@
+Script started on 2021-12-19 22:13:33+00:00 [TERM="dumb" TTY="/dev/tty3" COLUMNS="120" LINES="30"]
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ mkdir folder 1         fol    folder1
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ mkdir folder2
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ touch file1.txt
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ touch file2.txt
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ touch file3.te xt
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ mv file1.txt folder1
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ mv file2.txt folder2
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ cd folder1
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode/folder1$ ls -a
+.  ..  file1.txt
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode/folder1$                                                                                                                                                    jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode/folder1$ pwd
+/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode/folder1
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode/folder1$ cd jluka/<-and-git-assessment-jenoncode/folder1$ cd jluka/unit-01-command-line-and-git-assessment-jenoncode              
+bash: cd: jluka/unit-01-command-line-and-git-assessment-jenoncode: No such file or directory
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode/folder1$ cd ..
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ rm file3.txt
+jennifer@LAPTOP-381N7LPQ:/mnt/c/Users/jluka/unit-01-command-line-and-git-assessment-jenoncode$ exit
+exit
+
+Script done on 2021-12-19 22:31:40+00:00 [COMMAND_EXIT_CODE="0"]
